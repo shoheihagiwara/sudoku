@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SudokuSolver</string>
+    <string name="text_view_hint">Type 0-9 in 9 x 9 table format. 0 represents a blank.</string>
+    <string name="button_solve_sudoku">solve sudoku</string>
+    <string name="text_view_output_no_answer_found">No Solution Found...</string>
+    <string name="cell_position_move_to_next_cell_error_message">no more cell to move to. Cell position is already [8,8]</string>
+    <string name="cell_position_move_to_previous_cell_error_message">no more cell to move to. Cell position is already [0,0]</string>
+
+</resources>
